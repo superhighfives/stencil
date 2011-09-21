@@ -1,0 +1,3 @@
+<!-- Home -->
+
+<?php $section = "Home"; ?>
